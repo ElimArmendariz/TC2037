@@ -1,6 +1,6 @@
 import re
 
-print("Nombre del archivo que deseas abrir: ")
+print("Ingrese el nombre del archivo que deseas abrir: ")
 name=input()
 file=open(name)
 
